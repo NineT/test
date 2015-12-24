@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	imp "github.com/imp"
+	imp "github.com/NineT/imp"
 )
 
 func main() {
